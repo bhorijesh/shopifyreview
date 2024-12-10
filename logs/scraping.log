@@ -1,0 +1,275 @@
+2024-12-10 17:42:02,873 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=1
+2024-12-10 17:42:02,880 - ScraperLogger - INFO - Extracted reviews and content from page 1
+2024-12-10 17:42:08,383 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=2
+2024-12-10 17:42:08,389 - ScraperLogger - INFO - Extracted reviews and content from page 2
+2024-12-10 17:42:14,276 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=3
+2024-12-10 17:42:14,282 - ScraperLogger - INFO - Extracted reviews and content from page 3
+2024-12-10 17:42:19,789 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=4
+2024-12-10 17:42:19,794 - ScraperLogger - INFO - Extracted reviews and content from page 4
+2024-12-10 17:42:25,293 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=5
+2024-12-10 17:42:25,299 - ScraperLogger - INFO - Extracted reviews and content from page 5
+2024-12-10 17:42:30,837 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=6
+2024-12-10 17:42:30,844 - ScraperLogger - INFO - Extracted reviews and content from page 6
+2024-12-10 17:42:36,737 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=7
+2024-12-10 17:42:36,742 - ScraperLogger - INFO - Extracted reviews and content from page 7
+2024-12-10 17:42:42,354 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=8
+2024-12-10 17:42:42,359 - ScraperLogger - INFO - Extracted reviews and content from page 8
+2024-12-10 17:42:47,967 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=9
+2024-12-10 17:42:47,973 - ScraperLogger - INFO - Extracted reviews and content from page 9
+2024-12-10 17:42:53,535 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=10
+2024-12-10 17:42:53,542 - ScraperLogger - INFO - Extracted reviews and content from page 10
+2024-12-10 17:42:59,073 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=11
+2024-12-10 17:42:59,079 - ScraperLogger - INFO - Extracted reviews and content from page 11
+2024-12-10 17:43:04,612 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=12
+2024-12-10 17:43:04,617 - ScraperLogger - INFO - Extracted reviews and content from page 12
+2024-12-10 17:43:10,117 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=13
+2024-12-10 17:43:10,124 - ScraperLogger - INFO - Extracted reviews and content from page 13
+2024-12-10 17:43:15,665 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=14
+2024-12-10 17:43:15,671 - ScraperLogger - INFO - Extracted reviews and content from page 14
+2024-12-10 17:43:22,014 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=15
+2024-12-10 17:43:22,019 - ScraperLogger - INFO - Extracted reviews and content from page 15
+2024-12-10 17:43:27,621 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=16
+2024-12-10 17:43:27,627 - ScraperLogger - INFO - Extracted reviews and content from page 16
+2024-12-10 17:43:33,190 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/google-customer-reviews-1/reviews?search_id=2e1fc3d9-d3c5-4254-acaf-bacae870ded4&page=17
+2024-12-10 17:43:33,193 - ScraperLogger - INFO - No more data found at page 17. Ending scraping for Google Customer Reviews 1.
+2024-12-10 17:43:33,807 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=1
+2024-12-10 17:43:33,813 - ScraperLogger - INFO - Extracted reviews and content from page 1
+2024-12-10 17:43:39,329 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=2
+2024-12-10 17:43:39,335 - ScraperLogger - INFO - Extracted reviews and content from page 2
+2024-12-10 17:43:44,971 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=3
+2024-12-10 17:43:44,977 - ScraperLogger - INFO - Extracted reviews and content from page 3
+2024-12-10 17:43:50,545 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=4
+2024-12-10 17:43:50,551 - ScraperLogger - INFO - Extracted reviews and content from page 4
+2024-12-10 17:43:56,163 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=5
+2024-12-10 17:43:56,168 - ScraperLogger - INFO - Extracted reviews and content from page 5
+2024-12-10 17:44:02,183 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=6
+2024-12-10 17:44:02,189 - ScraperLogger - INFO - Extracted reviews and content from page 6
+2024-12-10 17:44:07,723 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=7
+2024-12-10 17:44:07,729 - ScraperLogger - INFO - Extracted reviews and content from page 7
+2024-12-10 17:44:13,322 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=8
+2024-12-10 17:44:13,328 - ScraperLogger - INFO - Extracted reviews and content from page 8
+2024-12-10 17:44:18,933 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=9
+2024-12-10 17:44:18,939 - ScraperLogger - INFO - Extracted reviews and content from page 9
+2024-12-10 17:44:24,835 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=10
+2024-12-10 17:44:24,841 - ScraperLogger - INFO - Extracted reviews and content from page 10
+2024-12-10 17:44:30,369 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=11
+2024-12-10 17:44:30,376 - ScraperLogger - INFO - Extracted reviews and content from page 11
+2024-12-10 17:44:35,884 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=12
+2024-12-10 17:44:35,890 - ScraperLogger - INFO - Extracted reviews and content from page 12
+2024-12-10 17:44:41,398 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=13
+2024-12-10 17:44:41,404 - ScraperLogger - INFO - Extracted reviews and content from page 13
+2024-12-10 17:44:46,988 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=14
+2024-12-10 17:44:46,993 - ScraperLogger - INFO - Extracted reviews and content from page 14
+2024-12-10 17:44:52,609 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=15
+2024-12-10 17:44:52,616 - ScraperLogger - INFO - Extracted reviews and content from page 15
+2024-12-10 17:44:58,154 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=16
+2024-12-10 17:44:58,160 - ScraperLogger - INFO - Extracted reviews and content from page 16
+2024-12-10 17:45:03,690 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=17
+2024-12-10 17:45:03,696 - ScraperLogger - INFO - Extracted reviews and content from page 17
+2024-12-10 17:45:09,242 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=18
+2024-12-10 17:45:09,248 - ScraperLogger - INFO - Extracted reviews and content from page 18
+2024-12-10 17:45:14,773 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=19
+2024-12-10 17:45:14,777 - ScraperLogger - INFO - Extracted reviews and content from page 19
+2024-12-10 17:45:20,211 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/social-testimonial-slider/reviews?search_id=737d0deb-1c58-4a2f-bedf-b8e2e9edfd69&page=20
+2024-12-10 17:45:20,215 - ScraperLogger - INFO - No more data found at page 20. Ending scraping for Social Testimonial Slider.
+2024-12-10 17:45:20,704 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=1
+2024-12-10 17:45:20,710 - ScraperLogger - INFO - Extracted reviews and content from page 1
+2024-12-10 17:45:26,249 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=2
+2024-12-10 17:45:26,255 - ScraperLogger - INFO - Extracted reviews and content from page 2
+2024-12-10 17:45:31,795 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=3
+2024-12-10 17:45:31,801 - ScraperLogger - INFO - Extracted reviews and content from page 3
+2024-12-10 17:45:37,299 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=4
+2024-12-10 17:45:37,305 - ScraperLogger - INFO - Extracted reviews and content from page 4
+2024-12-10 17:45:42,907 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=5
+2024-12-10 17:45:42,913 - ScraperLogger - INFO - Extracted reviews and content from page 5
+2024-12-10 17:45:48,837 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=6
+2024-12-10 17:45:48,843 - ScraperLogger - INFO - Extracted reviews and content from page 6
+2024-12-10 17:45:54,405 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=7
+2024-12-10 17:45:54,417 - ScraperLogger - INFO - Extracted reviews and content from page 7
+2024-12-10 17:45:59,897 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=8
+2024-12-10 17:45:59,904 - ScraperLogger - INFO - Extracted reviews and content from page 8
+2024-12-10 17:46:05,474 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=9
+2024-12-10 17:46:05,481 - ScraperLogger - INFO - Extracted reviews and content from page 9
+2024-12-10 17:46:11,017 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=10
+2024-12-10 17:46:11,023 - ScraperLogger - INFO - Extracted reviews and content from page 10
+2024-12-10 17:46:16,620 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=11
+2024-12-10 17:46:16,627 - ScraperLogger - INFO - Extracted reviews and content from page 11
+2024-12-10 17:46:22,147 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=12
+2024-12-10 17:46:22,155 - ScraperLogger - INFO - Extracted reviews and content from page 12
+2024-12-10 17:46:27,787 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=13
+2024-12-10 17:46:27,794 - ScraperLogger - INFO - Extracted reviews and content from page 13
+2024-12-10 17:46:33,304 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=14
+2024-12-10 17:46:33,310 - ScraperLogger - INFO - Extracted reviews and content from page 14
+2024-12-10 17:46:38,896 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=15
+2024-12-10 17:46:38,904 - ScraperLogger - INFO - Extracted reviews and content from page 15
+2024-12-10 17:46:44,533 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=16
+2024-12-10 17:46:44,540 - ScraperLogger - INFO - Extracted reviews and content from page 16
+2024-12-10 17:46:50,412 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=17
+2024-12-10 17:46:50,420 - ScraperLogger - INFO - Extracted reviews and content from page 17
+2024-12-10 17:46:56,022 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=18
+2024-12-10 17:46:56,029 - ScraperLogger - INFO - Extracted reviews and content from page 18
+2024-12-10 17:47:01,549 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=19
+2024-12-10 17:47:01,556 - ScraperLogger - INFO - Extracted reviews and content from page 19
+2024-12-10 17:47:07,057 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=20
+2024-12-10 17:47:07,064 - ScraperLogger - INFO - Extracted reviews and content from page 20
+2024-12-10 17:47:12,576 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=21
+2024-12-10 17:47:12,583 - ScraperLogger - INFO - Extracted reviews and content from page 21
+2024-12-10 17:47:18,124 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=22
+2024-12-10 17:47:18,131 - ScraperLogger - INFO - Extracted reviews and content from page 22
+2024-12-10 17:47:23,714 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=23
+2024-12-10 17:47:23,721 - ScraperLogger - INFO - Extracted reviews and content from page 23
+2024-12-10 17:47:29,251 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=24
+2024-12-10 17:47:29,258 - ScraperLogger - INFO - Extracted reviews and content from page 24
+2024-12-10 17:47:34,885 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=25
+2024-12-10 17:47:34,892 - ScraperLogger - INFO - Extracted reviews and content from page 25
+2024-12-10 17:47:40,459 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=26
+2024-12-10 17:47:40,466 - ScraperLogger - INFO - Extracted reviews and content from page 26
+2024-12-10 17:47:46,029 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=27
+2024-12-10 17:47:46,036 - ScraperLogger - INFO - Extracted reviews and content from page 27
+2024-12-10 17:47:51,582 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=28
+2024-12-10 17:47:51,588 - ScraperLogger - INFO - Extracted reviews and content from page 28
+2024-12-10 17:47:57,161 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=29
+2024-12-10 17:47:57,167 - ScraperLogger - INFO - Extracted reviews and content from page 29
+2024-12-10 17:48:02,737 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=30
+2024-12-10 17:48:02,743 - ScraperLogger - INFO - Extracted reviews and content from page 30
+2024-12-10 17:48:08,633 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=31
+2024-12-10 17:48:08,640 - ScraperLogger - INFO - Extracted reviews and content from page 31
+2024-12-10 17:48:14,192 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=32
+2024-12-10 17:48:14,198 - ScraperLogger - INFO - Extracted reviews and content from page 32
+2024-12-10 17:48:19,720 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=33
+2024-12-10 17:48:19,725 - ScraperLogger - INFO - Extracted reviews and content from page 33
+2024-12-10 17:48:25,217 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/reputon-testimonials/reviews?search_id=86905e06-08cb-4532-ab20-492267a980de&page=34
+2024-12-10 17:48:25,221 - ScraperLogger - INFO - No more data found at page 34. Ending scraping for Reputon Testimonials.
+2024-12-10 17:48:25,841 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=1
+2024-12-10 17:48:25,847 - ScraperLogger - INFO - Extracted reviews and content from page 1
+2024-12-10 17:48:31,385 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=2
+2024-12-10 17:48:31,391 - ScraperLogger - INFO - Extracted reviews and content from page 2
+2024-12-10 17:48:36,908 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=3
+2024-12-10 17:48:36,914 - ScraperLogger - INFO - Extracted reviews and content from page 3
+2024-12-10 17:48:42,444 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=4
+2024-12-10 17:48:42,450 - ScraperLogger - INFO - Extracted reviews and content from page 4
+2024-12-10 17:48:47,957 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=5
+2024-12-10 17:48:47,963 - ScraperLogger - INFO - Extracted reviews and content from page 5
+2024-12-10 17:48:53,489 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=6
+2024-12-10 17:48:53,495 - ScraperLogger - INFO - Extracted reviews and content from page 6
+2024-12-10 17:48:59,066 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=7
+2024-12-10 17:48:59,075 - ScraperLogger - INFO - Extracted reviews and content from page 7
+2024-12-10 17:49:05,060 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=8
+2024-12-10 17:49:05,067 - ScraperLogger - INFO - Extracted reviews and content from page 8
+2024-12-10 17:49:10,609 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=9
+2024-12-10 17:49:10,615 - ScraperLogger - INFO - Extracted reviews and content from page 9
+2024-12-10 17:49:16,163 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=10
+2024-12-10 17:49:16,170 - ScraperLogger - INFO - Extracted reviews and content from page 10
+2024-12-10 17:49:21,694 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=11
+2024-12-10 17:49:21,701 - ScraperLogger - INFO - Extracted reviews and content from page 11
+2024-12-10 17:49:27,266 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=12
+2024-12-10 17:49:27,273 - ScraperLogger - INFO - Extracted reviews and content from page 12
+2024-12-10 17:49:32,832 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=13
+2024-12-10 17:49:32,838 - ScraperLogger - INFO - Extracted reviews and content from page 13
+2024-12-10 17:49:38,346 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=14
+2024-12-10 17:49:38,352 - ScraperLogger - INFO - Extracted reviews and content from page 14
+2024-12-10 17:49:43,873 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=15
+2024-12-10 17:49:43,879 - ScraperLogger - INFO - Extracted reviews and content from page 15
+2024-12-10 17:49:49,401 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=16
+2024-12-10 17:49:49,408 - ScraperLogger - INFO - Extracted reviews and content from page 16
+2024-12-10 17:49:54,927 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=17
+2024-12-10 17:49:54,934 - ScraperLogger - INFO - Extracted reviews and content from page 17
+2024-12-10 17:50:00,609 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=18
+2024-12-10 17:50:00,616 - ScraperLogger - INFO - Extracted reviews and content from page 18
+2024-12-10 17:50:06,201 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=19
+2024-12-10 17:50:06,207 - ScraperLogger - INFO - Extracted reviews and content from page 19
+2024-12-10 17:50:11,854 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=20
+2024-12-10 17:50:11,862 - ScraperLogger - INFO - Extracted reviews and content from page 20
+2024-12-10 17:50:17,374 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=21
+2024-12-10 17:50:17,381 - ScraperLogger - INFO - Extracted reviews and content from page 21
+2024-12-10 17:50:23,285 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=22
+2024-12-10 17:50:23,292 - ScraperLogger - INFO - Extracted reviews and content from page 22
+2024-12-10 17:50:28,841 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=23
+2024-12-10 17:50:28,848 - ScraperLogger - INFO - Extracted reviews and content from page 23
+2024-12-10 17:50:34,391 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=24
+2024-12-10 17:50:34,398 - ScraperLogger - INFO - Extracted reviews and content from page 24
+2024-12-10 17:50:40,041 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=25
+2024-12-10 17:50:40,048 - ScraperLogger - INFO - Extracted reviews and content from page 25
+2024-12-10 17:50:45,546 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=26
+2024-12-10 17:50:45,553 - ScraperLogger - INFO - Extracted reviews and content from page 26
+2024-12-10 17:50:51,487 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=27
+2024-12-10 17:50:51,494 - ScraperLogger - INFO - Extracted reviews and content from page 27
+2024-12-10 17:50:57,027 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=28
+2024-12-10 17:50:57,033 - ScraperLogger - INFO - Extracted reviews and content from page 28
+2024-12-10 17:51:02,543 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=29
+2024-12-10 17:51:02,551 - ScraperLogger - INFO - Extracted reviews and content from page 29
+2024-12-10 17:51:08,090 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=30
+2024-12-10 17:51:08,097 - ScraperLogger - INFO - Extracted reviews and content from page 30
+2024-12-10 17:51:13,621 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=31
+2024-12-10 17:51:13,628 - ScraperLogger - INFO - Extracted reviews and content from page 31
+2024-12-10 17:51:19,182 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=32
+2024-12-10 17:51:19,188 - ScraperLogger - INFO - Extracted reviews and content from page 32
+2024-12-10 17:51:24,723 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=33
+2024-12-10 17:51:24,729 - ScraperLogger - INFO - Extracted reviews and content from page 33
+2024-12-10 17:51:30,322 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=34
+2024-12-10 17:51:30,329 - ScraperLogger - INFO - Extracted reviews and content from page 34
+2024-12-10 17:51:36,120 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/product-reviews-by-appio/reviews?search_id=24b42449-d36f-4727-8365-7925219c6797&page=35
+2024-12-10 17:51:36,123 - ScraperLogger - INFO - No more data found at page 35. Ending scraping for Product Reviews By Appio.
+2024-12-10 17:51:36,728 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=1
+2024-12-10 17:51:36,734 - ScraperLogger - INFO - Extracted reviews and content from page 1
+2024-12-10 17:51:42,265 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=2
+2024-12-10 17:51:42,272 - ScraperLogger - INFO - Extracted reviews and content from page 2
+2024-12-10 17:51:47,748 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=3
+2024-12-10 17:51:47,754 - ScraperLogger - INFO - Extracted reviews and content from page 3
+2024-12-10 17:51:53,305 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=4
+2024-12-10 17:51:53,312 - ScraperLogger - INFO - Extracted reviews and content from page 4
+2024-12-10 17:51:59,201 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=5
+2024-12-10 17:51:59,207 - ScraperLogger - INFO - Extracted reviews and content from page 5
+2024-12-10 17:52:04,742 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=6
+2024-12-10 17:52:04,747 - ScraperLogger - INFO - Extracted reviews and content from page 6
+2024-12-10 17:52:10,254 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=7
+2024-12-10 17:52:10,261 - ScraperLogger - INFO - Extracted reviews and content from page 7
+2024-12-10 17:52:15,804 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=8
+2024-12-10 17:52:15,810 - ScraperLogger - INFO - Extracted reviews and content from page 8
+2024-12-10 17:52:21,315 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=9
+2024-12-10 17:52:21,321 - ScraperLogger - INFO - Extracted reviews and content from page 9
+2024-12-10 17:52:26,944 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=10
+2024-12-10 17:52:26,950 - ScraperLogger - INFO - Extracted reviews and content from page 10
+2024-12-10 17:52:32,535 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=11
+2024-12-10 17:52:32,541 - ScraperLogger - INFO - Extracted reviews and content from page 11
+2024-12-10 17:52:38,491 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=12
+2024-12-10 17:52:38,496 - ScraperLogger - INFO - Extracted reviews and content from page 12
+2024-12-10 17:52:44,054 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=13
+2024-12-10 17:52:44,060 - ScraperLogger - INFO - Extracted reviews and content from page 13
+2024-12-10 17:52:54,577 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=14
+2024-12-10 17:52:54,583 - ScraperLogger - INFO - Extracted reviews and content from page 14
+2024-12-10 17:53:00,125 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=15
+2024-12-10 17:53:00,131 - ScraperLogger - INFO - Extracted reviews and content from page 15
+2024-12-10 17:53:05,633 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=16
+2024-12-10 17:53:05,639 - ScraperLogger - INFO - Extracted reviews and content from page 16
+2024-12-10 17:53:11,202 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=17
+2024-12-10 17:53:11,208 - ScraperLogger - INFO - Extracted reviews and content from page 17
+2024-12-10 17:53:16,760 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=18
+2024-12-10 17:53:16,767 - ScraperLogger - INFO - Extracted reviews and content from page 18
+2024-12-10 17:53:22,335 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=19
+2024-12-10 17:53:22,341 - ScraperLogger - INFO - Extracted reviews and content from page 19
+2024-12-10 17:53:27,956 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=20
+2024-12-10 17:53:27,961 - ScraperLogger - INFO - Extracted reviews and content from page 20
+2024-12-10 17:53:33,481 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=21
+2024-12-10 17:53:33,486 - ScraperLogger - INFO - Extracted reviews and content from page 21
+2024-12-10 17:53:39,008 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=22
+2024-12-10 17:53:39,014 - ScraperLogger - INFO - Extracted reviews and content from page 22
+2024-12-10 17:53:44,519 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=23
+2024-12-10 17:53:44,525 - ScraperLogger - INFO - Extracted reviews and content from page 23
+2024-12-10 17:53:50,054 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=24
+2024-12-10 17:53:50,060 - ScraperLogger - INFO - Extracted reviews and content from page 24
+2024-12-10 17:53:55,672 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=25
+2024-12-10 17:53:55,678 - ScraperLogger - INFO - Extracted reviews and content from page 25
+2024-12-10 17:54:01,212 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=26
+2024-12-10 17:54:01,218 - ScraperLogger - INFO - Extracted reviews and content from page 26
+2024-12-10 17:54:06,724 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=27
+2024-12-10 17:54:06,730 - ScraperLogger - INFO - Extracted reviews and content from page 27
+2024-12-10 17:54:12,587 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=28
+2024-12-10 17:54:12,593 - ScraperLogger - INFO - Extracted reviews and content from page 28
+2024-12-10 17:54:18,168 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=29
+2024-12-10 17:54:18,174 - ScraperLogger - INFO - Extracted reviews and content from page 29
+2024-12-10 17:54:23,690 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=30
+2024-12-10 17:54:23,694 - ScraperLogger - INFO - Extracted reviews and content from page 30
+2024-12-10 17:54:29,128 - ScraperLogger - INFO - Successfully fetched page: https://apps.shopify.com/revie/reviews?search_id=31a66c11-4f15-441f-b79d-1a9933b64247&page=31
+2024-12-10 17:54:29,131 - ScraperLogger - INFO - No more data found at page 31. Ending scraping for Revie.
+2024-12-10 17:54:29,159 - ScraperLogger - INFO - Saved 1302 combined records to 'reviews.csv'
